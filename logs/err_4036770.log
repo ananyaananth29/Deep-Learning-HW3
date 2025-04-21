@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "assignment3.py", line 652, in <module>
+    optimizer = torch.optim.SGD(model_ex15.parameters(), lr=0.01, momentum=0.9, nesterov=True)
+NameError: name 'model_ex15' is not defined

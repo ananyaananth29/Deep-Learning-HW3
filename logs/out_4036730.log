@@ -1,0 +1,48 @@
+GPU already assigned before: 0
+
+Loading retina data
+
+Visualing a few cases in the training set
+
+Starting exercise 1.2
+Percentage of positive (foreground) labels: 18.33%
+Ratio of negative (background) to positive labels: 4.46
+
+Starting exercise 1.3
+
+Starting training loop 1
+  Train Epoch: 0 	Loss: 1.12111
+  F1 train: 0.00000 	 F1 val: 0.00000
+    Best F1 so far: 0.00000
+  Train Epoch: 1 	Loss: 1.06424
+  F1 train: 0.00000 	 F1 val: 0.00000
+    Best F1 so far: 0.00000
+  Train Epoch: 2 	Loss: 0.97193
+  F1 train: 0.00001 	 F1 val: 0.00000
+    Best F1 so far: 0.00000
+  Train Epoch: 3 	Loss: 0.89204
+  F1 train: 0.00381 	 F1 val: 0.00099
+    Best F1 so far: 0.00099
+  Train Epoch: 4 	Loss: 0.86811
+  F1 train: 0.06873 	 F1 val: 0.05201
+    Best F1 so far: 0.05201
+  Train Epoch: 5 	Loss: 0.78787
+  F1 train: 0.12832 	 F1 val: 0.09251
+    Best F1 so far: 0.09251
+  Train Epoch: 6 	Loss: 0.75520
+  F1 train: 0.37605 	 F1 val: 0.30457
+    Best F1 so far: 0.30457
+  Train Epoch: 7 	Loss: 0.72665
+  F1 train: 0.60402 	 F1 val: 0.59772
+    Best F1 so far: 0.59772
+  Train Epoch: 8 	Loss: 0.69556
+  F1 train: 0.57342 	 F1 val: 0.52031
+    Best F1 so far: 0.59772
+  Train Epoch: 9 	Loss: 0.66246
+  F1 train: 0.59398 	 F1 val: 0.59585
+    Best F1 so far: 0.59772
+    F1 score of test set: 0.53451
+Sample 0: False Positives = 37526, False Negatives = 5288
+Sample 1: False Positives = 22660, False Negatives = 9420
+Sample 2: False Positives = 37135, False Negatives = 4584
+Sample 3: False Positives = 37245, False Negatives = 6453

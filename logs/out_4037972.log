@@ -1,0 +1,193 @@
+GPU already assigned before: 0
+
+Loading retina data
+
+Visualing a few cases in the training set
+
+Starting exercise 1.2
+Percentage of positive (foreground) labels: 18.33%
+Ratio of negative (background) to positive labels: 4.46
+
+Starting exercise 1.3
+
+Starting training loop 1
+  Train Epoch: 0 	Loss: 1.14152
+  F1 train: 0.30466 	 F1 val: 0.32971
+    Best F1 so far: 0.32971
+  Train Epoch: 1 	Loss: 1.09498
+  F1 train: 0.30466 	 F1 val: 0.32971
+    Best F1 so far: 0.32971
+  Train Epoch: 2 	Loss: 1.05732
+  F1 train: 0.30766 	 F1 val: 0.33191
+    Best F1 so far: 0.33191
+  Train Epoch: 3 	Loss: 1.00250
+  F1 train: 0.00004 	 F1 val: 0.00037
+    Best F1 so far: 0.33191
+  Train Epoch: 4 	Loss: 0.96780
+  F1 train: 0.27737 	 F1 val: 0.36356
+    Best F1 so far: 0.36356
+  Train Epoch: 5 	Loss: 0.93864
+  F1 train: 0.26001 	 F1 val: 0.37617
+    Best F1 so far: 0.37617
+  Train Epoch: 6 	Loss: 0.90854
+  F1 train: 0.11075 	 F1 val: 0.07689
+    Best F1 so far: 0.37617
+  Train Epoch: 7 	Loss: 0.82441
+  F1 train: 0.31830 	 F1 val: 0.31816
+    Best F1 so far: 0.37617
+  Train Epoch: 8 	Loss: 0.78564
+  F1 train: 0.54923 	 F1 val: 0.58089
+    Best F1 so far: 0.58089
+  Train Epoch: 9 	Loss: 0.76859
+  F1 train: 0.56747 	 F1 val: 0.54834
+    Best F1 so far: 0.58089
+  Train Epoch: 10 	Loss: 0.73696
+  F1 train: 0.17498 	 F1 val: 0.10072
+    Best F1 so far: 0.58089
+  Train Epoch: 11 	Loss: 0.73827
+  F1 train: 0.42916 	 F1 val: 0.35330
+    Best F1 so far: 0.58089
+  Train Epoch: 12 	Loss: 0.67530
+  F1 train: 0.47474 	 F1 val: 0.47337
+    Best F1 so far: 0.58089
+  Train Epoch: 13 	Loss: 0.64004
+  F1 train: 0.58665 	 F1 val: 0.61174
+    Best F1 so far: 0.61174
+  Train Epoch: 14 	Loss: 0.63352
+  F1 train: 0.67065 	 F1 val: 0.66460
+    Best F1 so far: 0.66460
+  Train Epoch: 15 	Loss: 0.61249
+  F1 train: 0.65521 	 F1 val: 0.69272
+    Best F1 so far: 0.69272
+  Train Epoch: 16 	Loss: 0.60066
+  F1 train: 0.67638 	 F1 val: 0.65434
+    Best F1 so far: 0.69272
+  Train Epoch: 17 	Loss: 0.59544
+  F1 train: 0.66774 	 F1 val: 0.70636
+    Best F1 so far: 0.70636
+  Train Epoch: 18 	Loss: 0.60125
+  F1 train: 0.68556 	 F1 val: 0.71615
+    Best F1 so far: 0.71615
+  Train Epoch: 19 	Loss: 0.58427
+  F1 train: 0.67011 	 F1 val: 0.68596
+    Best F1 so far: 0.71615
+  Train Epoch: 20 	Loss: 0.57113
+  F1 train: 0.71436 	 F1 val: 0.75074
+    Best F1 so far: 0.75074
+  Train Epoch: 21 	Loss: 0.57963
+  F1 train: 0.50300 	 F1 val: 0.40822
+    Best F1 so far: 0.75074
+  Train Epoch: 22 	Loss: 0.61704
+  F1 train: 0.56395 	 F1 val: 0.55837
+    Best F1 so far: 0.75074
+  Train Epoch: 23 	Loss: 0.58084
+  F1 train: 0.68716 	 F1 val: 0.70382
+    Best F1 so far: 0.75074
+  Train Epoch: 24 	Loss: 0.58100
+  F1 train: 0.65922 	 F1 val: 0.72111
+    Best F1 so far: 0.75074
+  Train Epoch: 25 	Loss: 0.55797
+  F1 train: 0.69858 	 F1 val: 0.72877
+    Best F1 so far: 0.75074
+  Train Epoch: 26 	Loss: 0.55048
+  F1 train: 0.71842 	 F1 val: 0.75325
+    Best F1 so far: 0.75325
+  Train Epoch: 27 	Loss: 0.55344
+  F1 train: 0.73136 	 F1 val: 0.75255
+    Best F1 so far: 0.75325
+  Train Epoch: 28 	Loss: 0.55144
+  F1 train: 0.71210 	 F1 val: 0.74697
+    Best F1 so far: 0.75325
+  Train Epoch: 29 	Loss: 0.54478
+  F1 train: 0.72654 	 F1 val: 0.74452
+    Best F1 so far: 0.75325
+    F1 score of test set: 0.69328
+Sample 0: False Positives = 48376, False Negatives = 2831
+Sample 1: False Positives = 27747, False Negatives = 5603
+Sample 2: False Positives = 48816, False Negatives = 2313
+Sample 3: False Positives = 48311, False Negatives = 4327
+
+Starting training loop 2
+  Train Epoch: 0 	Loss: 1.17462
+  F1 train: 0.00000 	 F1 val: 0.00000
+  Train Epoch: 1 	Loss: 1.15028
+  F1 train: 0.00000 	 F1 val: 0.00000
+  Train Epoch: 2 	Loss: 1.14117
+  F1 train: 0.00000 	 F1 val: 0.00000
+  Train Epoch: 3 	Loss: 1.13785
+  F1 train: 0.00000 	 F1 val: 0.00000
+  Train Epoch: 4 	Loss: 1.13272
+  F1 train: 0.00000 	 F1 val: 0.00000
+  Train Epoch: 5 	Loss: 1.12839
+  F1 train: 0.00000 	 F1 val: 0.00000
+  Train Epoch: 6 	Loss: 1.12865
+  F1 train: 0.00000 	 F1 val: 0.00000
+  Train Epoch: 7 	Loss: 1.13638
+  F1 train: 0.00478 	 F1 val: 0.00437
+  Train Epoch: 8 	Loss: 1.13631
+  F1 train: 0.08523 	 F1 val: 0.08845
+  Train Epoch: 9 	Loss: 1.13735
+  F1 train: 0.19400 	 F1 val: 0.20716
+  Train Epoch: 10 	Loss: 1.12766
+  F1 train: 0.25609 	 F1 val: 0.27603
+  Train Epoch: 11 	Loss: 1.13598
+  F1 train: 0.27065 	 F1 val: 0.29010
+  Train Epoch: 12 	Loss: 1.13038
+  F1 train: 0.27589 	 F1 val: 0.29574
+  Train Epoch: 13 	Loss: 1.13620
+  F1 train: 0.26848 	 F1 val: 0.28828
+  Train Epoch: 14 	Loss: 1.12879
+  F1 train: 0.26892 	 F1 val: 0.28798
+  Train Epoch: 15 	Loss: 1.12486
+  F1 train: 0.26933 	 F1 val: 0.28838
+  Train Epoch: 16 	Loss: 1.12838
+  F1 train: 0.26233 	 F1 val: 0.28342
+  Train Epoch: 17 	Loss: 1.12388
+  F1 train: 0.27013 	 F1 val: 0.29054
+  Train Epoch: 18 	Loss: 1.12573
+  F1 train: 0.26285 	 F1 val: 0.28180
+  Train Epoch: 19 	Loss: 1.13534
+  F1 train: 0.25566 	 F1 val: 0.27523
+  Train Epoch: 20 	Loss: 1.12953
+  F1 train: 0.26084 	 F1 val: 0.28076
+  Train Epoch: 21 	Loss: 1.13366
+  F1 train: 0.26643 	 F1 val: 0.28629
+  Train Epoch: 22 	Loss: 1.13008
+  F1 train: 0.26303 	 F1 val: 0.28377
+  Train Epoch: 23 	Loss: 1.13189
+  F1 train: 0.27719 	 F1 val: 0.29720
+  Train Epoch: 24 	Loss: 1.12201
+  F1 train: 0.28750 	 F1 val: 0.30831
+  Train Epoch: 25 	Loss: 1.12193
+  F1 train: 0.28928 	 F1 val: 0.31271
+  Train Epoch: 26 	Loss: 1.13069
+  F1 train: 0.28135 	 F1 val: 0.30580
+  Train Epoch: 27 	Loss: 1.12477
+  F1 train: 0.28143 	 F1 val: 0.30713
+  Train Epoch: 28 	Loss: 1.13349
+  F1 train: 0.27932 	 F1 val: 0.30266
+  Train Epoch: 29 	Loss: 1.13160
+  F1 train: 0.28851 	 F1 val: 0.31610
+    F1 score of test set: 0.29848
+
+🩺 [Validation Sample 0]
+Model: U-Net Without Skip Connections
+False Positives: 43666
+False Negatives: 4559
+
+🩺 [Validation Sample 1]
+Model: U-Net Without Skip Connections
+False Positives: 50730
+False Negatives: 7431
+
+🩺 [Validation Sample 2]
+Model: U-Net Without Skip Connections
+False Positives: 51276
+False Negatives: 3890
+
+🩺 [Validation Sample 3]
+Model: U-Net Without Skip Connections
+False Positives: 56830
+False Negatives: 4185
+
+EXERCISE COMPLETED!

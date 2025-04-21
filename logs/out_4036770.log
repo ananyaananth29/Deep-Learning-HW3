@@ -1,0 +1,108 @@
+GPU already assigned before: 0
+
+Loading retina data
+
+Visualing a few cases in the training set
+
+Starting exercise 1.2
+Percentage of positive (foreground) labels: 18.33%
+Ratio of negative (background) to positive labels: 4.46
+
+Starting exercise 1.3
+
+Starting training loop 1
+  Train Epoch: 0 	Loss: 1.13809
+  F1 train: 0.30488 	 F1 val: 0.32981
+    Best F1 so far: 0.32981
+  Train Epoch: 1 	Loss: 1.09648
+  F1 train: 0.30466 	 F1 val: 0.32971
+    Best F1 so far: 0.32981
+  Train Epoch: 2 	Loss: 1.05563
+  F1 train: 0.30479 	 F1 val: 0.32979
+    Best F1 so far: 0.32981
+  Train Epoch: 3 	Loss: 0.98405
+  F1 train: 0.07610 	 F1 val: 0.04114
+    Best F1 so far: 0.32981
+  Train Epoch: 4 	Loss: 0.94145
+  F1 train: 0.02956 	 F1 val: 0.02530
+    Best F1 so far: 0.32981
+  Train Epoch: 5 	Loss: 0.93332
+  F1 train: 0.32336 	 F1 val: 0.33319
+    Best F1 so far: 0.33319
+  Train Epoch: 6 	Loss: 0.84537
+  F1 train: 0.33702 	 F1 val: 0.33795
+    Best F1 so far: 0.33795
+  Train Epoch: 7 	Loss: 0.81897
+  F1 train: 0.48848 	 F1 val: 0.56680
+    Best F1 so far: 0.56680
+  Train Epoch: 8 	Loss: 0.77211
+  F1 train: 0.59890 	 F1 val: 0.60851
+    Best F1 so far: 0.60851
+  Train Epoch: 9 	Loss: 0.71986
+  F1 train: 0.61798 	 F1 val: 0.64647
+    Best F1 so far: 0.64647
+  Train Epoch: 10 	Loss: 0.69023
+  F1 train: 0.59493 	 F1 val: 0.65476
+    Best F1 so far: 0.65476
+  Train Epoch: 11 	Loss: 0.67960
+  F1 train: 0.56850 	 F1 val: 0.58972
+    Best F1 so far: 0.65476
+  Train Epoch: 12 	Loss: 0.67498
+  F1 train: 0.62869 	 F1 val: 0.68322
+    Best F1 so far: 0.68322
+  Train Epoch: 13 	Loss: 0.65264
+  F1 train: 0.63145 	 F1 val: 0.65634
+    Best F1 so far: 0.68322
+  Train Epoch: 14 	Loss: 0.63917
+  F1 train: 0.61546 	 F1 val: 0.65446
+    Best F1 so far: 0.68322
+  Train Epoch: 15 	Loss: 0.62374
+  F1 train: 0.60539 	 F1 val: 0.62969
+    Best F1 so far: 0.68322
+  Train Epoch: 16 	Loss: 0.63206
+  F1 train: 0.67920 	 F1 val: 0.70665
+    Best F1 so far: 0.70665
+  Train Epoch: 17 	Loss: 0.61933
+  F1 train: 0.66031 	 F1 val: 0.71098
+    Best F1 so far: 0.71098
+  Train Epoch: 18 	Loss: 0.61802
+  F1 train: 0.66644 	 F1 val: 0.70111
+    Best F1 so far: 0.71098
+  Train Epoch: 19 	Loss: 0.60597
+  F1 train: 0.67912 	 F1 val: 0.74588
+    Best F1 so far: 0.74588
+  Train Epoch: 20 	Loss: 0.60796
+  F1 train: 0.46787 	 F1 val: 0.47608
+    Best F1 so far: 0.74588
+  Train Epoch: 21 	Loss: 0.59613
+  F1 train: 0.68228 	 F1 val: 0.73649
+    Best F1 so far: 0.74588
+  Train Epoch: 22 	Loss: 0.58123
+  F1 train: 0.69235 	 F1 val: 0.74591
+    Best F1 so far: 0.74591
+  Train Epoch: 23 	Loss: 0.57857
+  F1 train: 0.71439 	 F1 val: 0.75617
+    Best F1 so far: 0.75617
+  Train Epoch: 24 	Loss: 0.57103
+  F1 train: 0.69451 	 F1 val: 0.74846
+    Best F1 so far: 0.75617
+  Train Epoch: 25 	Loss: 0.56666
+  F1 train: 0.65593 	 F1 val: 0.68428
+    Best F1 so far: 0.75617
+  Train Epoch: 26 	Loss: 0.56816
+  F1 train: 0.68911 	 F1 val: 0.72126
+    Best F1 so far: 0.75617
+  Train Epoch: 27 	Loss: 0.56747
+  F1 train: 0.70036 	 F1 val: 0.71176
+    Best F1 so far: 0.75617
+  Train Epoch: 28 	Loss: 0.55874
+  F1 train: 0.71484 	 F1 val: 0.76543
+    Best F1 so far: 0.76543
+  Train Epoch: 29 	Loss: 0.55834
+  F1 train: 0.67257 	 F1 val: 0.69178
+    Best F1 so far: 0.76543
+    F1 score of test set: 0.71944
+Sample 0: False Positives = 4315, False Negatives = 2270
+Sample 1: False Positives = 8118, False Negatives = 4342
+Sample 2: False Positives = 4145, False Negatives = 1910
+Sample 3: False Positives = 3483, False Negatives = 3482
